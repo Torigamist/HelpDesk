@@ -1,0 +1,6 @@
+adição de sistema de usuário;
+data e hora do registro do chamado;
+melhoria de layout (por exemplo adicionar um título a cada agrupamento de campos dos formulários);
+adição de um back-end;
+adição da integração com um banco de dados (provavelmente postgree sql);
+completar as páginas não criadas (base de dados, que funcionária como uma ajuda ao usuário final para solucionar problemas e também a lista de chamados, que listaria todos os chamados cadastrados);
